@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Bumped patch version
 - Added type hints to helper functions
+
+## 2026-04-13
+- Added healthcheck endpoint stub
